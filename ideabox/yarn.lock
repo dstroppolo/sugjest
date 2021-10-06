@@ -2144,6 +2144,10 @@ class-utils@^0.3.5:
     isobject "^3.0.0"
     static-extend "^0.1.1"
 
+classnames@^2.2.6:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/classnames/-/classnames-2.3.1.tgz#dfcfa3891e306ec1dad105d0e88f4417b8535e8e"
+
 clean-css@4.2.x:
   version "4.2.1"
   resolved "https://registry.yarnpkg.com/clean-css/-/clean-css-4.2.1.tgz#2d411ef76b8569b6d0c84068dabe85b0aa5e5c17"
@@ -6762,6 +6766,14 @@ primeflex@^1.0.0-rc.1:
   version "1.0.0-rc.1"
   resolved "https://registry.yarnpkg.com/primeflex/-/primeflex-1.0.0-rc.1.tgz#8f3555522238870500baa8587e360095261fff5f"
 
+primeicons@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/primeicons/-/primeicons-2.0.0.tgz#ec3e5a8d4d04a09309225a5a57deb911e08dc0d3"
+
+primereact@^3.2.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/primereact/-/primereact-3.4.0.tgz#cbc0534abd4917355975d0213b612df49f44d880"
+
 private@^0.1.6:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
@@ -6884,8 +6896,8 @@ querystring@0.2.0:
   resolved "https://registry.yarnpkg.com/querystring/-/querystring-0.2.0.tgz#b209849203bb25df820da756e747005878521620"
 
 querystringify@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.1.1.tgz#60e5a5fd64a7f8bfa4d2ab2ed6fdf4c85bad154e"
+  version "2.2.0"
+  resolved "https://registry.yarnpkg.com/querystringify/-/querystringify-2.2.0.tgz#3345941b4153cb9d082d8eee4cda2016a9aef7f6"
 
 raf@3.4.1:
   version "3.4.1"
@@ -8310,8 +8322,8 @@ url-loader@2.1.0:
     schema-utils "^2.0.0"
 
 url-parse@^1.4.3:
-  version "1.4.7"
-  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.4.7.tgz#a8a83535e8c00a316e403a5db4ac1b9b853ae278"
+  version "1.5.3"
+  resolved "https://registry.yarnpkg.com/url-parse/-/url-parse-1.5.3.tgz#71c1303d38fb6639ade183c2992c8cc0686df862"
   dependencies:
     querystringify "^2.1.1"
     requires-port "^1.0.0"
